@@ -18,7 +18,6 @@ public class HiLo {
 
                 while (guess != num) {
                     System.out.println("Guess a number between 1 and 100:");
-
                     guess = scan.nextInt();
                     System.out.println("You entered " + guess + ".");
 
@@ -35,8 +34,9 @@ public class HiLo {
                 playAgain = scan.next();
             } while (playAgain.equalsIgnoreCase("y"));
 
+            System.out.println("Thank you for playing!");
+
         } catch (Exception e) {
-            // TODO: handle exception
             e.printStackTrace();
         }
 
