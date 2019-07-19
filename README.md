@@ -13,10 +13,12 @@ Simple java guessing game using random numbers.
 - Install vscode
 - Install the [recommended extensions](https://code.visualstudio.com/docs/languages/java)
 - Install Maven for Java
-- Clone the repository 
+- Clone the repository
 - Open in vscode
 - Run in integrated terminal
 
 ## References
 
 - [Learn Java The Easy Way](https://www.amazon.com/Learn-Java-Easy-Way-Hands-ebook/dp/B0713P1RBH)
+- [Maven – How to create a Java project](https://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/)
+- [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
