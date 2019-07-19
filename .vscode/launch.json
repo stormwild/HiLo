@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HiLo",
+      "request": "launch",
+      "mainClass": "games.guessing.HiLo",
+      "projectName": "HiLo",
+      "console": "integratedTerminal"
+    }
+  ]
+}
