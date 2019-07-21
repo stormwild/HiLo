@@ -17,6 +17,10 @@ Simple java guessing game using random numbers.
 - Open in vscode
 - Run in integrated terminal
 
+## Demo
+
+![](screenshot-guessing-game-hilo.png)
+
 ## References
 
 - [Learn Java The Easy Way](https://www.amazon.com/Learn-Java-Easy-Way-Hands-ebook/dp/B0713P1RBH)
